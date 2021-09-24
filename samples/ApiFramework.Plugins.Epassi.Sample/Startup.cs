@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Weikio.ApiFramework;
 
-namespace Weikio.ApiFramework.Plugins.Epassi.Sample
+namespace Adafy.ApiFramework.Plugins.Epassi.Sample
 {
     public class Startup
     {

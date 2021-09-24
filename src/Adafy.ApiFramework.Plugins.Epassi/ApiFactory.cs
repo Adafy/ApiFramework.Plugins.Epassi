@@ -7,12 +7,12 @@ using Microsoft.Extensions.Logging;
 using Weikio.ApiFramework.Plugins.Browser;
 using Weikio.TypeGenerator;
 
-namespace Weikio.ApiFramework.Plugins.Epassi
+namespace Adafy.ApiFramework.Plugins.Epassi
 {
     public class ApiFactory
     {
         private readonly ILogger<ApiFactory> _logger;
-        private readonly ILogger<Browser.ApiFactory> _browserLogger;
+        private readonly ILogger<Weikio.ApiFramework.Plugins.Browser.ApiFactory> _browserLogger;
 
         public ApiFactory(ILogger<ApiFactory> logger, ILogger<Weikio.ApiFramework.Plugins.Browser.ApiFactory> browserLogger)
         {

@@ -1,8 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-using Weikio.ApiFramework.Plugins.Epassi.Sample;
 
-namespace Weikio.ApiFramework.Plugins.Browser.Sample
+namespace Adafy.ApiFramework.Plugins.Epassi.Sample
 {
     public class Program
     {

@@ -4,16 +4,17 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <IsPackable>true</IsPackable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Weik.io</Authors>
-    <Company>Weik.io</Company>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Authors>Adafy Oy</Authors>
+    <Company>Adafy Oy</Company>
     <Description>Epassi plugin for Api Framework.</Description>
     <PackageDescription>Epassi plugin for Api Framework.</PackageDescription>
-    <PackageProjectUrl>https://weik.io/apiframework</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/weikio/ApiFramework.Plugins.Epassi</RepositoryUrl>
-    <Copyright>©2021 Weik.io</Copyright>
-    <PackageId>Weikio.ApiFramework.Plugins.Epassi</PackageId>
-    <Product>Weikio.ApiFramework.Plugins.Epassi</Product>
-    <AssemblyName>Weikio.ApiFramework.Plugins.Epassi</AssemblyName>
+    <PackageProjectUrl>https://github.com/Adafy/ApiFramework.Plugins.Epassi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Adafy/ApiFramework.Plugins.Epassi</RepositoryUrl>
+    <Copyright>©2021 Adafy Oy</Copyright>
+    <PackageId>Adafy.ApiFramework.Plugins.Epassi</PackageId>
+    <Product>Adafy.ApiFramework.Plugins.Epassi</Product>
+    <AssemblyName>Adafy.ApiFramework.Plugins.Epassi</AssemblyName>
     <PackageTags>apiframework;epassi</PackageTags>
     <PackageIcon>logo_256.png</PackageIcon>
     <Title>Epassi plugin for Api Framework.</Title>

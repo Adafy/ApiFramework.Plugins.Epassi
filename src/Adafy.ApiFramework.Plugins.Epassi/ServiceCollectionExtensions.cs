@@ -2,7 +2,7 @@
 using Weikio.ApiFramework.Abstractions.DependencyInjection;
 using Weikio.ApiFramework.SDK;
 
-namespace Weikio.ApiFramework.Plugins.Epassi
+namespace Adafy.ApiFramework.Plugins.Epassi
 {
     public static class ServiceExtensions
     {

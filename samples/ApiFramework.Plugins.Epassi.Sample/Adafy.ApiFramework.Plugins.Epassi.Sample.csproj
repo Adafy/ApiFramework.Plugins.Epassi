@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Weikio.ApiFramework.Plugins.Epassi\Weikio.ApiFramework.Plugins.Epassi.csproj" />
+    <ProjectReference Include="..\..\src\Adafy.ApiFramework.Plugins.Epassi\Adafy.ApiFramework.Plugins.Epassi.csproj" />
   </ItemGroup>
   
 </Project>

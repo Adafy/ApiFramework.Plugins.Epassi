@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Weikio.ApiFramework.Plugins.Epassi
+namespace Adafy.ApiFramework.Plugins.Epassi
 {
     public interface IEpassiBrowser
     {

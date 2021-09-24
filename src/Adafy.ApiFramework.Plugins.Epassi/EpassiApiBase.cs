@@ -3,9 +3,8 @@ using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Weikio.ApiFramework.Plugins.Browser;
 
-namespace Weikio.ApiFramework.Plugins.Epassi
+namespace Adafy.ApiFramework.Plugins.Epassi
 {
     public abstract class EpassiApiBase
     {

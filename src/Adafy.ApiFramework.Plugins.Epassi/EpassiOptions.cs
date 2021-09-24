@@ -1,4 +1,4 @@
-﻿namespace Weikio.ApiFramework.Plugins.Epassi
+﻿namespace Adafy.ApiFramework.Plugins.Epassi
 {
     public class EpassiOptions
     {
